@@ -1,0 +1,9 @@
+{
+  "entrypoint": "de.yggdrasil.EnhancedPlayerExtension",
+  "name": "EnhancedPlayerExtension",
+  "version": "1.0.0",
+  "dependencies": [
+  ],
+  "externalDependencies": {
+  }
+}
